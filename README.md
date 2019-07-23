@@ -9,7 +9,7 @@ To start using this project use the following commands:
 
 - `git clone https://github.com/lavylipesh/hello-world.git`
 - `cd hello-world`
-- `atom .`or code . depending on the text editor you have.
+- `atom .` code . depending on the text editor you have.
 
 ## License info
 MIT License
